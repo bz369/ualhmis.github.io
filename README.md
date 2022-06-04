@@ -26,7 +26,7 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 
 Prof | Joaquin | hmis2021 | http://github.com/ualjjcanada  |
 
-
+Omar Zekkaght Elkhayar|bz369|https://github.com/bz369/bz369
 ## Páginas de cursos anteriores
 * [HMIS 2020](index2020.md)
 * [HMIS 2019](index2019.md)
